@@ -16,4 +16,5 @@ Simply follow the following steps:
 # Conclusion 
 Have fun with it, more updates will be added soon.
 
-
+Made by [Wasique](https://github.com/Aqiry)
+Contributor - [Shreyansh](https://github.com/shrey208/)
