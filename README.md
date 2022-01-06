@@ -17,4 +17,5 @@ Simply follow the following steps:
 Have fun with it, more updates will be added soon.
 
 Made by [Wasique](https://github.com/Aqiry)
+<br>
 Contributor - [Shreyansh](https://github.com/shrey208/)
