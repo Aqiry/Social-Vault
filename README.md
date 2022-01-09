@@ -15,6 +15,7 @@ Simply follow the following steps:
 
 # Conclusion 
 Have fun with it, more updates will be added soon.
+Cuz the technology keeps grwoing 
 
 Made by [Wasique](https://github.com/Aqiry)
 <br>
