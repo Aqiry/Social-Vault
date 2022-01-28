@@ -1,5 +1,5 @@
 # Aqiry's Sharing Place
-It's a social networking site in the beta phase for uploading and managing profiles. Make sure to check it out and test around it.
+It's a networking site in the beta phase for uploading and managing profiles. Make sure to check it out and test around it.
 
 Umm Don't upload a large amout of data.🙂
 
